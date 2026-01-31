@@ -290,6 +290,10 @@ def preprocess_dataset(
     train_final = prepare_for_catboost(train_final)
     test_final = prepare_for_catboost(test_final)
     
+    # Add target column to train dataframe (if it exists)
+    if 'overqualified' in train_df.columns:
+        train_final['overqualified'] = train_df['overqualified'].values
+    
     # Get categorical feature indices for CatBoost
     cat_indices = get_catboost_feature_indices(train_final.columns.tolist())
     
