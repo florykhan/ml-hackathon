@@ -201,7 +201,7 @@ MIT License, feel free to use and modify with attribution. See the [`LICENSE`](L
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
 **Ilian Khankhalaev**  
 _BSc Computing Science, Simon Fraser University_  
