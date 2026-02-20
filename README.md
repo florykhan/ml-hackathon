@@ -211,10 +211,10 @@ _BSc Computing Science, Simon Fraser University_
 _BSc Computing Science, Simon Fraser University_  
 📍 Vancouver, BC  | [GitHub](https://github.com/Deinick)  |  [LinkedIn](https://www.linkedin.com/in/nikolay-deinego/)
 
-**Anna Cherkashina**
-_BSc Data Science, Simon Fraser University_  
-📍 Vancouver, BC  | [GitHub](https://github.com/Anna05072005)  |  [LinkedIn](https://www.linkedin.com/in/anna-cherkashina-467059293/)
-
 **Arina Veprikova**  
 _BSc Data Science, Simon Fraser University_  
 📍 Vancouver, BC  |  [GitHub](https://github.com/areenve)  |  [LinkedIn](https://www.linkedin.com/in/arina-veprikova-a97526366/)
+
+**Anna Cherkashina**
+_BSc Data Science, Simon Fraser University_  
+📍 Vancouver, BC  | [GitHub](https://github.com/Anna05072005)  |  [LinkedIn](https://www.linkedin.com/in/anna-cherkashina-467059293/)
