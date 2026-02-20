@@ -13,8 +13,13 @@ __pycache__/
 # OS junk
 .DS_Store
 
-# Model artifacts (reproduced by train.py)
-data/processed/*.pkl
+# Model artifacts (reproduced by python3 -m src.train)
+models/*
+!models/.gitkeep
+data/processed/
+
+# CatBoost training logs (TensorBoard, etc.)
+catboost_info/
 
 # Generated outputs
 figures/
