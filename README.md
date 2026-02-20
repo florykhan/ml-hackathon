@@ -52,6 +52,7 @@ graduate-underemployment-prediction/
 │   └── 05_pipeline_demo.ipynb                      # End-to-end pipeline demonstration
 │
 ├── submissions/                                    # Generated submission CSVs (id, overqualified)
+│   ├── public_leaderboards.png                     # Public leaderboard screenshot
 │   └── submission.csv                              # Default output from python3 -m src.predict
 │
 ├── src/
@@ -158,6 +159,10 @@ Recommended order:
 ---
 
 ## 📊 Results (Summary)
+
+The hackathon had **14 teams** in total. Public leaderboard snapshot:
+
+![Public leaderboard](submissions/public_leaderboards.png)
 
 | **Metric** | **Value** |
 |------------|-----------|
